@@ -29,6 +29,8 @@ npm install
 docker-compose up
 ```
 
+#### Browse to your domain
+
 #### Pre-requisites:
 1. Ensure server ports 443, 80 are open
 2. Ensure docker is installed
